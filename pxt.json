@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Untitled": "github:titi1879/microbit-drill-music1#b98845a71f81ab1406e97356ea10ecb50f938989"
     },
     "files": [
         "main.blocks",
